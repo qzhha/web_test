@@ -1,0 +1,8 @@
+syntax = "proto2";
+
+package test;
+
+message test_1
+{
+    optional uint32 a = 1;
+}
